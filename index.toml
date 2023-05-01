@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
+hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
 
 [[files]]
@@ -154,6 +154,10 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "e0ffc486b8d9b9bcd9123b284f8795c0e671321f7de9461df04de9e4fcc443c8"
 metafile = true
+
+[[files]]
+file = "mods/physics-mod-pro-v151-fabric-1.19.4.jar"
+hash = "bb52af6d3014b87007ae0d3c93543e6a86b95d9ee0c6e158450fd329bf8dbbca"
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
