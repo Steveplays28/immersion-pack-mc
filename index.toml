@@ -75,6 +75,11 @@ hash = "b2a889278c3b05c9c9d4b8d38f63e1fca1420309b216b574cd9f5d91226fe302"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "a7b2ae0b5977112fa39bd64e1ae41583cd8fdcddf095df7d66b5d569ac201649"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "54968e302997818e3161506db9f83add8a29b415d216985c3a3bcd301bb9b7a2"
 metafile = true
@@ -107,6 +112,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "0ae62b7b3b2ec310aae34000ab5708260f384eab74265b479c7a415bc4a67bcc"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "75caa1e42abf75921eb341c42e5197165b81a4342620e732cd0c4f0239e5f331"
 metafile = true
 
 [[files]]
@@ -210,6 +225,11 @@ hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "859b1f9c9774c432724260e340d83299eed517753c14aec26bf520192909ede3"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -245,6 +265,11 @@ hash = "f403c771795282b22ded95a62cca193f0561ff3c4d7ca6803a5e4f53618c38cd"
 metafile = true
 
 [[files]]
+file = "mods/pathunderfencegates.pw.toml"
+hash = "289203f79c410d65e441a5fb5dcf3db63a96cae7559b2405c8f04c36f1b4e030"
+metafile = true
+
+[[files]]
 file = "mods/physics-mod-pro-v151-fabric-1.19.4.jar"
 hash = "bb52af6d3014b87007ae0d3c93543e6a86b95d9ee0c6e158450fd329bf8dbbca"
 
@@ -269,6 +294,11 @@ hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
 metafile = true
 
 [[files]]
+file = "mods/realisticsleep.pw.toml"
+hash = "5b6d8b48d669b75919b47f5c6fe138d64df5f805b7e0b948969cac9bb487e1bb"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
 metafile = true
@@ -276,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "26e7f9777d8c1b0c27a879816a178d54d86afca1f2849c98c69d096396e7c8f6"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "501a1dced2aaeb65e1b2a363d0ee5bf71f1e7fbaba8d6d3e35b044bfe654f15e"
 metafile = true
 
 [[files]]
@@ -296,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "2f175e539c7cb0f843e13e3a8b495d8d3b01ef623a7dd8c8b8c50eec9c3aed6e"
 metafile = true
 
 [[files]]
@@ -329,6 +369,11 @@ hash = "2be50974c72386427a30f5a3d42d57f459a403a92f09fad74609e476f0f4b8a6"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "9e37f5514c89137a93da324dd789289a2aeab5f9687777efe83bb32e5018c8e7"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "168d832a826225e12f84d31bc10ddf3f7f21c75c4c25bdc975a3381dcb17fd15"
 metafile = true
@@ -351,4 +396,19 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "d731cf839a0288e0393caffbd95d6fda78006a71054be16ac0cb22fe59a889f3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "57b879c4936bb9ad7fb08d93500b57d669a73563a7862659274dffc315eb24d6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "67aa682b79d0a3e9c9951e06d9c65ce802d9213b68db60dc3d73466c0cd34771"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "39e0a9f8e4ac1e5484c3e4e61a8a633606a0b004b1e538028df3b7a25db0198a"
 metafile = true
