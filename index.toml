@@ -21,6 +21,10 @@ file = "config/enhancedvisuals.json"
 hash = "0db28b852e68e602e80940bc108ec70784d8975a8921d80678a0b24b3e088fd9"
 
 [[files]]
+file = "config/notenoughanimations.json"
+hash = "324d400586f0b699aff9200c4cd3d3c11243333f5a0d52e4db361b9857f264c1"
+
+[[files]]
 file = "config/physicsmod/physics_animations_client_config.json"
 hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
@@ -65,6 +69,10 @@ file = "config/travelerstitles-fabric-1_19_4.toml"
 hash = "47b4a15c2aa4a14119052fdc061f10bdbda5e2983485413c85382c6ce39db999"
 
 [[files]]
+file = "config/yigd.toml"
+hash = "2f4baf81ea5982032359fd3f09eb25334ca04d653a8fd8ebe21564b691b91afc"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
@@ -72,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "76f2681c9b261e72a357bc0a0eecc7e8ba8794b4d4437ca29ea113dad1c62a2b"
 metafile = true
 
 [[files]]
@@ -472,3 +485,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "39e0a9f8e4ac1e5484c3e4e61a8a633606a0b004b1e538028df3b7a25db0198a"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r2.1.zip"
+hash = "c66a409382232f35a48738ca80edeedca6c12ed4a03c4f98df4802dd8cea2c04"
