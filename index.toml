@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "7d784e9efc818d0a08afed8171c666302fc319e2f9fd37c07d3feb8e2486c5bd"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "1c66bf3d7009e754f138b4483f8b4179e95f118345090f14f69d49b0b49f0ebd"
+
+[[files]]
 file = "config/dynamicfps.toml"
 hash = "64ea24fdafe384529416a8163988d0f3e0a238cfc29b59573001e5bb430c2b57"
 
@@ -13,6 +21,34 @@ file = "config/enhancedvisuals.json"
 hash = "0db28b852e68e602e80940bc108ec70784d8975a8921d80678a0b24b3e088fd9"
 
 [[files]]
+file = "config/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/physicsmod/physics_blocks_client_config.json"
+hash = "f7983df1334177a37665da85befc83ce750d1639aa8bac4770ee0b631b6ef744"
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "32a2622b1e640b9308bc953e7dee744a0bd25b809933755fb3b1d0f33042b6b8"
+
+[[files]]
+file = "config/physicsmod/physics_cloth_config.json"
+hash = "c004242898b912a2ad1a836a4e017d921c1e8660180565ce56dc4cadc027e939"
+
+[[files]]
+file = "config/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "a815a709b48b0fc5d30fb6c5783bd659cc0ec012b969235e0d769334742c4f2c"
+
+[[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "3f3f0e9a467636a34fb958601323e583ef344a1108fdbb3ce45a61dfb79255ca"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "81e17bdac40612ccfcf5269723623a128356047b8cd89747e3f8dd63f4a9f255"
 
@@ -23,6 +59,10 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 [[files]]
 file = "config/sodium-options.json"
 hash = "29b5fc6fdbc83f87524178cdf8cbe8c5be5516564f28a22bbe040972a2f2a634"
+
+[[files]]
+file = "config/travelerstitles-fabric-1_19_4.toml"
+hash = "47b4a15c2aa4a14119052fdc061f10bdbda5e2983485413c85382c6ce39db999"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -55,6 +95,11 @@ hash = "9277beb9481ab7cd8abff4411fd823a167073c9457e142e5579d568e8f26c0a1"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "53f4c91dad29ae26c26ce8b42cfd895ad09fb31eea4ea150530fb0fdade8d091"
 metafile = true
@@ -62,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "05fa5ea6bddb34a9095599c62352955e061f13c9f33c0c64e7316a711baa3e9f"
 metafile = true
 
 [[files]]
@@ -344,6 +394,11 @@ hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
+file = "mods/sort.pw.toml"
+hash = "52bfb8baf1e2ada9b076faa8addefd732c0cd2fd408a2116f8ecfc9e96da4c08"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "1ea0d9a4c962654f3742bdcf9a957444fefe309cb8bc55c6dae9a58476793662"
 metafile = true
@@ -396,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "d731cf839a0288e0393caffbd95d6fda78006a71054be16ac0cb22fe59a889f3"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "81beed3736453c3e8561a32a806cf508899e8011b54e6326703ff54f80f05aaf"
 metafile = true
 
 [[files]]
