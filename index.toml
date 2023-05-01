@@ -70,7 +70,7 @@ hash = "47b4a15c2aa4a14119052fdc061f10bdbda5e2983485413c85382c6ce39db999"
 
 [[files]]
 file = "config/yigd.toml"
-hash = "2f4baf81ea5982032359fd3f09eb25334ca04d653a8fd8ebe21564b691b91afc"
+hash = "02a1e99f5b3bd15395043989117e3ba6c7a47c15d15109849b29d43be1c19d98"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

@@ -17,31 +17,32 @@ soulboundEnchantments = ["yigd:soulbound"]
 loseSoulboundLevelOnDeath = false
 voidSlots = []
 soulboundSlots = []
-applyBindingCurse = true
+applyBindingCurse = false
 useLastGroundPos = false
-trySoft = false
-trySoftApproach = "RADIUS"
+trySoft = "RADIUS"
 tryStrict = true
 replaceWhenClaimed = true
 persistGraves = false
+onDestroyedDrop = "NONE"
 blacklistDimensions = []
 graveInVoid = true
 ignoreDeathTypes = []
-graveSpawnHeight = 2
+graveSpawnHeight = 120
 lastResort = "DROP_ITEMS"
-putXpInGrave = true
+xpStorage = "IN_GRAVE"
 defaultXpDrop = false
 xpDropPercent = 50
 tellDeathPos = true
+betrayOfflinePeople = false
 maxGraveBackups = 50
 
 [graveSettings.graveRobbing]
 enableRobbing = true
 onlyMurderer = false
-afterTime = 0
+afterTime = 1
 timeType = "HOURS"
 robPriority = "INVENTORY"
-tellRobber = false
+tellRobber = true
 notifyWhenRobbed = true
 
 [graveSettings.graveDeletion]
@@ -73,8 +74,6 @@ inCustom = "minecraft:dirt"
 generateWhenProtected = false
 
 [graveSettings.graveCompatConfig]
-levelzXpInGraves = true
-levelzXpDropPercent = 100
 claimRuleOverride = "CREATE_GRAVE"
 prioritiseTheGraveyardGraves = false
 graveyardSearchRadius = 10
@@ -89,7 +88,7 @@ textShadow = true
 adaptRenderer = true
 glowingGrave = true
 glowMinDistance = 0
-glowMaxDistance = 2048
+glowMaxDistance = 1000
 
 [graveSettings.graveRenderSettings.guiTextColors]
 graveSelectGraveLocation = 13369548
@@ -143,7 +142,7 @@ getFromGui = false
 rebindable = false
 graveKeySpecification = "PLAYER"
 [utilitySettings.graveCompassSettings]
-receiveOnDeath = false
+receiveOnDeath = true
 tryDeleteOnClaim = true
 [commandToggles]
 coreCommandName = "yigd"
