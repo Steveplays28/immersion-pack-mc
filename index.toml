@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "7d784e9efc818d0a08afed8171c666302fc319e2f9fd37c07d3feb8e2486c5bd"
+hash = "43435b22dea5c42b51e6089cc19e9d69101e8984c0a5dfcc951590ec1e58f03e"
 
 [[files]]
 file = "config/NoChatReports/NCR-Encryption.json"
@@ -46,7 +46,7 @@ hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
 
 [[files]]
 file = "config/physicsmod/physics_server_config.json"
-hash = "a815a709b48b0fc5d30fb6c5783bd659cc0ec012b969235e0d769334742c4f2c"
+hash = "f8e10c95d4f87f00e611e9669b99aab46d1ddd5b576fdc1d534a605fd8d776e3"
 
 [[files]]
 file = "config/physicsmod/physics_vines_client_config.json"
@@ -98,8 +98,18 @@ hash = "1c50be4b4880dce02129ccfe092a4cb9a8d435592cdefb067e2bce2f0ed92b14"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "ecb416db024c8133e5c437c07a28448f45ec07927e7eacc86d4b0319a3950058"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "e7f24fc5155b82d8176243edd736bd67fbbc3262d06bdc88bf32ee525724d932"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "0a1cfc43b53a2b4e6c42a048f345c888a0fcef685109733aa67aacb077d0b75e"
 metafile = true
 
 [[files]]
@@ -228,6 +238,11 @@ hash = "b3e544dddc8df8de607894543ec65e3e1c65106b8b1bbb5a3ac9e6799275d573"
 metafile = true
 
 [[files]]
+file = "mods/herdspanic.pw.toml"
+hash = "9284302420fdf37f6a0b083ce85b28a35bd8260d2a57635c7f2d15e3499dc36c"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
@@ -245,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "f813e2e42902ab9f0c3e1b2ac982d12ba71854b0352144f7f0c3d4a076ae2741"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "b982d9347f153e1be564e7b359691d69fc0fa9f0b45c4ca91f5a9aef6f4bfca8"
 metafile = true
 
 [[files]]
@@ -273,6 +293,11 @@ hash = "f573cac2ec9cd88456c545e177753791c91a38ba0a46c4ad4c87e5a7878664ea"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "741141875e3195675988173f2ee04ec2cef83d536dfdae9382f8144013737865"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
@@ -295,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
+metafile = true
+
+[[files]]
+file = "mods/modpack-config-updater.pw.toml"
+hash = "9fa750efc2b19d57556a47181bc68ac97e69177f8a8b67304a54f5b72e37f850"
 metafile = true
 
 [[files]]
@@ -328,8 +358,13 @@ hash = "289203f79c410d65e441a5fb5dcf3db63a96cae7559b2405c8f04c36f1b4e030"
 metafile = true
 
 [[files]]
-file = "mods/physics-mod-pro-v151-fabric-1.19.4.jar"
-hash = "bb52af6d3014b87007ae0d3c93543e6a86b95d9ee0c6e158450fd329bf8dbbca"
+file = "mods/physics-mod-pro-v152-fabric-1.19.4.jar"
+hash = "7aa6d23ace2dfb332530bb523e8d7478e455923ea628b8cc7cff2fe412889f09"
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "817607c316fb5464af3a3362453df55e18fd16a14f32eb1e7b5449edb866cd84"
+metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
@@ -359,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
+metafile = true
+
+[[files]]
+file = "mods/replay-voice-chat.pw.toml"
+hash = "8453df4d1a16197f9033a8dc65dd5ab3af561308f497b62344e22f81f617fabb"
 metafile = true
 
 [[files]]

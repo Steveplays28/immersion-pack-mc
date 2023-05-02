@@ -1,0 +1,13 @@
+name = "Modpack Config Updater [Forge/Fabric]"
+filename = "modpackconfigupdater-1.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rmAl6EGF/versions/3dCuYLoh/modpackconfigupdater-1.1-fabric.jar"
+hash-format = "sha1"
+hash = "e946f07b51db25de32c20d7da2ed1e03635a9496"
+
+[update]
+[update.modrinth]
+mod-id = "rmAl6EGF"
+version = "3dCuYLoh"
