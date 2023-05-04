@@ -21,6 +21,10 @@ file = "config/enhancedvisuals.json"
 hash = "0db28b852e68e602e80940bc108ec70784d8975a8921d80678a0b24b3e088fd9"
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "4b313311bc266ab72a8d2f293d516624ae2880b0528eba1e7136cfbdf760ba58"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "324d400586f0b699aff9200c4cd3d3c11243333f5a0d52e4db361b9857f264c1"
 
@@ -45,20 +49,12 @@ file = "config/physicsmod/physics_mobs_client_config.json"
 hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
 
 [[files]]
-file = "config/physicsmod/physics_server_config.json"
-hash = "f8e10c95d4f87f00e611e9669b99aab46d1ddd5b576fdc1d534a605fd8d776e3"
-
-[[files]]
 file = "config/physicsmod/physics_vines_client_config.json"
 hash = "3f3f0e9a467636a34fb958601323e583ef344a1108fdbb3ce45a61dfb79255ca"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "81e17bdac40612ccfcf5269723623a128356047b8cd89747e3f8dd63f4a9f255"
-
-[[files]]
-file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+hash = "12cbca5cb522c82fc113accc2cf9aa559344cfbabee93b3c27982035bdad732b"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -93,6 +89,11 @@ hash = "b1b9042b80ced7af7192b3159b12112c6b2899c81ff09f0232f01bce8f42fba1"
 metafile = true
 
 [[files]]
+file = "mods/arch-ex.pw.toml"
+hash = "e19ea9812169e64a72999943a46c1e46144b4632bdb5519ca7a2f844dd0af91e"
+metafile = true
+
+[[files]]
 file = "mods/autohud.pw.toml"
 hash = "1c50be4b4880dce02129ccfe092a4cb9a8d435592cdefb067e2bce2f0ed92b14"
 metafile = true
@@ -113,6 +114,16 @@ hash = "0a1cfc43b53a2b4e6c42a048f345c888a0fcef685109733aa67aacb077d0b75e"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "8abc68fa806dd726205a5f3c5efc63ec79e8b0376ee3330ab1ffc1bc31658f4f"
+metafile = true
+
+[[files]]
+file = "mods/bmarker.pw.toml"
+hash = "5e7b6b781caaa75d7ac0c2465fc6789943c49a916f0d9e128f4d5ff53708f4a3"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "9277beb9481ab7cd8abff4411fd823a167073c9457e142e5579d568e8f26c0a1"
 metafile = true
@@ -128,8 +139,18 @@ hash = "53f4c91dad29ae26c26ce8b42cfd895ad09fb31eea4ea150530fb0fdade8d091"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "557d0ab0dec916a534710e2b3462d883d78625e56c9dada068409b94fe5a8095"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
+metafile = true
+
+[[files]]
+file = "mods/clutter.pw.toml"
+hash = "bf7fb8af2a7482191b40813a94ba230346dfd5b894b4dc95539dd67138116026"
 metafile = true
 
 [[files]]
@@ -140,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "05fa5ea6bddb34a9095599c62352955e061f13c9f33c0c64e7316a711baa3e9f"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "3c1f5bcce06f54007348b60fecb2b49074ddf3a252fc614b464707e46334655a"
 metafile = true
 
 [[files]]
@@ -180,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "69cc56416b06ffff1841f7ac748dde02e916c930f4a403f7d348016f196fe92f"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "7a6a192d8b94f9363b7a741b6758316437c56598ee0156c479949e71b6c80f7c"
 metafile = true
 
 [[files]]
@@ -333,13 +364,18 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mob-variants.pw.toml"
+hash = "cc7ad663f9121045253f486530d2d403bc399f416c924ede8d6ef9be24aaa184"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
 metafile = true
 
 [[files]]
-file = "mods/modpack-config-updater.pw.toml"
-hash = "9fa750efc2b19d57556a47181bc68ac97e69177f8a8b67304a54f5b72e37f850"
+file = "mods/more-mob-variants.pw.toml"
+hash = "4b7559b41c1461e9e113fb6172c8994ac5a4c935c4989d30908dc77436de1b45"
 metafile = true
 
 [[files]]
@@ -375,11 +411,6 @@ metafile = true
 [[files]]
 file = "mods/physics-mod-pro-v152-fabric-1.19.4.jar"
 hash = "7aa6d23ace2dfb332530bb523e8d7478e455923ea628b8cc7cff2fe412889f09"
-
-[[files]]
-file = "mods/ping-wheel.pw.toml"
-hash = "817607c316fb5464af3a3362453df55e18fd16a14f32eb1e7b5449edb866cd84"
-metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
@@ -429,6 +460,16 @@ metafile = true
 [[files]]
 file = "mods/resquake.pw.toml"
 hash = "c3ccaaf555aa8a2b75ff7d27b0e24fa66d7fd872b17005c6c775044c821ea6d8"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "352d2dd8efb08f8a6213c295a10259de61b4536f2afb1fd985ffcea47a55ec8b"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "c4fedb2bb81becaca7d5df39461e261614cfcfa496b0a39ebe66845e955000de"
 metafile = true
 
 [[files]]
@@ -519,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "ecf0c6a4e1ea923de5149d8fbceb63c2030d9d89385c08289483695d012f5568"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "b4b3ac403ca1dbead7a521d5208c04d9469485c333f3d574f184f08382e7f810"
 metafile = true
 
 [[files]]
