@@ -49,6 +49,10 @@ file = "config/physicsmod/physics_mobs_client_config.json"
 hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
 
 [[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "611ca90884205093b1f91a33fec870d8ae69d16e1f95116d0a4f30f28dcf0189"
+
+[[files]]
 file = "config/physicsmod/physics_vines_client_config.json"
 hash = "3f3f0e9a467636a34fb958601323e583ef344a1108fdbb3ce45a61dfb79255ca"
 
@@ -84,6 +88,11 @@ hash = "76f2681c9b261e72a357bc0a0eecc7e8ba8794b4d4437ca29ea113dad1c62a2b"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "5062b128d5da100e06d2c45b7d418bf4b5c89ae8132c18d4359c7c82105ee794"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b1b9042b80ced7af7192b3159b12112c6b2899c81ff09f0232f01bce8f42fba1"
 metafile = true
@@ -96,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/autohud.pw.toml"
 hash = "1c50be4b4880dce02129ccfe092a4cb9a8d435592cdefb067e2bce2f0ed92b14"
+metafile = true
+
+[[files]]
+file = "mods/backpacked-fabric.pw.toml"
+hash = "e8bb5435d1dcf84ae571a927ae83519b29e2b7bed2f3a17df6ea2bbf3c7fd1ec"
 metafile = true
 
 [[files]]
@@ -271,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "678ecc9241860f54aa51acc300dcec18d96322bb593a2db6574e7de952d6038f"
+metafile = true
+
+[[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "4041259713ac7d66a89097d266563b74234670d2d2f806c03b8a558a5efba36d"
 metafile = true
 
 [[files]]
