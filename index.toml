@@ -21,6 +21,10 @@ file = "config/enhancedvisuals.json"
 hash = "0db28b852e68e602e80940bc108ec70784d8975a8921d80678a0b24b3e088fd9"
 
 [[files]]
+file = "config/fancymenu/animations/immersion_pack_funny_intro_animation/animation.properties"
+hash = "c18dfcf1e6aefa75e77e59f89b7cec12aac88cb8a29b369e18642361198c357c"
+
+[[files]]
 file = "config/lambdynlights.toml"
 hash = "4b313311bc266ab72a8d2f293d516624ae2880b0528eba1e7136cfbdf760ba58"
 
@@ -217,6 +221,11 @@ hash = "54968e302997818e3161506db9f83add8a29b415d216985c3a3bcd301bb9b7a2"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "62f2cd2dca2fee703bd8d2f1b495db1d9be4282173b0602bd704bfb9b1d7e12b"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -269,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "ccdb16fd2564c82cbb0db92b3963c772928bc2dfd6ed693313416e66f4ffd6ca"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "c3b35b56f965202cfabc5c6b2a1fb33e29127c90d65c8fcd906d6651ff2bfc45"
 metafile = true
 
 [[files]]
@@ -352,6 +366,11 @@ hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "941f09c4243115daf98d0eb1357974d167b4b617363b6b5d1a771681845f8bf7"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
 metafile = true
@@ -374,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
+metafile = true
+
+[[files]]
+file = "mods/load-my-resources.pw.toml"
+hash = "d685c47885829bf913aeaf1b736e07818a412d8f980636f3351e244b4f78e79e"
 metafile = true
 
 [[files]]
@@ -624,6 +648,1834 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "39e0a9f8e4ac1e5484c3e4e61a8a633606a0b004b1e538028df3b7a25db0198a"
 metafile = true
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/1.png"
+hash = "1f011a51b010fd91be2c9de4a7330ab936173cc382f3524efdc0da82927d1669"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/10.png"
+hash = "51a06e375ec5982c065de4c19c64bb56dc8c8e1e8d5c5d6d384b767ed01a01a7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/100.png"
+hash = "ec10050a99f8138621f7f7fc2b8cd26a9db7319ca1ae5d43b49c46a9662dc79a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/101.png"
+hash = "d722c1fd2605856834916df76f633c5759b5bd2113aee73ae37c26bb17bdee01"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/102.png"
+hash = "c26e5e4352ac4f1ae698de239c5091d87b92bf8e639955da9b83f3c9344498a0"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/103.png"
+hash = "597f0ed6b13dfc5cb67c2af410929004596ac740083b7ffc64c935740bc4523b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/104.png"
+hash = "2d0b30722cf6cbdea77bcf7d71d537c7e0eb330463c1558503678da6c8fd3245"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/105.png"
+hash = "5c9912b9bcf2d2b14c891f15934e6f4bb981dedbe117d07ccfaf248cd008d49c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/106.png"
+hash = "83e8d7551b1e45f6495fcd2be3342cd1194114821a0025d4e113fa66a7b60399"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/107.png"
+hash = "d11fc58307934dc6a724cf8c351d30a3083cdd619d652422d7e91a09f67ccc5f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/108.png"
+hash = "2eb3ec01075e6fdbb22737a4afbc0f4bbea4a3008d7b03053f4e231172fe18cb"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/109.png"
+hash = "c73b432104628772cc86d3962adb060c11d072f11b8a1ce256cb948eac485033"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/11.png"
+hash = "cb4d240808696c3d07c8b04ffd0863d44f9de1580e980aa76e012b9299241e9d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/110.png"
+hash = "8a253e2208fea9d6bf2aa7e3541d9f499e574901cfafa219842395187a66fdc4"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/111.png"
+hash = "2268916e18b741226ccdbbd85475153f5ab8687c8edfdfdebc13f594f020d10e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/112.png"
+hash = "9f1f15dd852d20610df2719683be4c2a6668a674ef494c843ee38617b054b7bf"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/113.png"
+hash = "d2ccc39ff1307782f660e791fcb3696f2aa3913d997284393edae781397ec79c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/114.png"
+hash = "f8692828c79abb4211bba1ca6c8571ff250172be2e953213d183f427b33632d7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/115.png"
+hash = "8a49c511a4dc2eb31b6bb789b3534fb3458320cdaa0adef39af7c745bacd4529"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/116.png"
+hash = "6585f311b8bae8787ec6dba3498a39460f506542bee8dfc8cc8c0e56b27f1019"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/117.png"
+hash = "ec65ad4e53347388af6451f01340fe17e4b6bbcf101c311abeb274e7f87fa19c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/118.png"
+hash = "80335ac317cb94434951529d780a33e42f9fed9302468a318f0e5a017f13d0ba"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/119.png"
+hash = "66934e58084c78cba83af3b9110abb48f20c73e3d6577002d7392c3776b9258a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/12.png"
+hash = "cd1897af4802ab4a3aba4d193b2c2d0042a5d2d1d5055c58ebea154aeb7b1f29"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/120.png"
+hash = "bd4a6fae7daf193e8868495bc81a737e70a631117681bd30fed2ba5222c4d587"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/121.png"
+hash = "85561bcfd36b68553f093b146531b540ba7b434576af288bd26ad84d95ffb539"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/122.png"
+hash = "69f42b7c947e383b59cb807c5b50742df08e2454ee9f22ade828dd61c5a483cd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/123.png"
+hash = "bfe81a32ac05096a4234a1a40b2d9715dfc40b021852c152615aa2aaf2f6e874"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/124.png"
+hash = "136e6d9ee4d96f9a1568f78168eabb7855b111ab3df482ff5795923a3100c608"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/125.png"
+hash = "50caf24cd682f303f96f80d417f184ba64db1a6dd8af7f15ad0a0a0b59d9fd23"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/126.png"
+hash = "9f7140d281e7ad25a653219588458b37a0f33a92921f562445aae1671d2ea41b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/127.png"
+hash = "4c32e26a08a4bafac7607dcce7bf30b9b77b393f20bbbb43ee1a285c0f603ff0"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/128.png"
+hash = "04d6cdb289e2845dd9197cc1efae92ddbbf00ab48f1f9d6562610360288c4573"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/129.png"
+hash = "a8c3b4974c0f015d7661619e8005ad7f30c28a84d20d3be399016e4ceabdf9fa"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/13.png"
+hash = "21fc033deecbd3e3005b053cbba5c2f33216f11af883c60dc7ca7a71da7f9000"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/130.png"
+hash = "1d0d834dd42f6b91f283f460e9e2911b77fb4c5f2883e10cb8e495e036c1cc7b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/131.png"
+hash = "eb693d4de464090a9ab7dc86aea5bdbf32b5c06a68123a7c63517b75e1a7c82d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/132.png"
+hash = "e7471667ac6ff0fe2312975c165a4dc63a9571728886cf41620699856c407258"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/133.png"
+hash = "b41e8d8e9d83d6d9ea5d531ea47d3a60768a7140ab945546f7ea9572bfdf824f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/134.png"
+hash = "00762883507fe502592e1a0b20ba35fb72526e01d2f0fbb4102b2910a9afff48"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/135.png"
+hash = "e65b8bcf41f0b2d4bdd5a6f49b75f039c236bc0f63cbb71369725e2f3414dd42"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/136.png"
+hash = "8cc5e37a2ffdee9d0778014becb6a97023b699cc9425aaa94027bd852b91aef1"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/137.png"
+hash = "716b2695a90f116bad2a880272b03cbf68523bcaa715456bef9134fd0f170d2a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/138.png"
+hash = "75906c1ad0d6453737c73453646f0949ebe66fcc9ee03a095a83dcfc6f826941"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/139.png"
+hash = "7c0384554244f0ecc190125101522df9a3b6a121478c4ae84409a7c2ffeab2c9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/14.png"
+hash = "b29e7b190e15af618e870c3a3fccebdb9b3932beec86dc46d40b52b1d3656f55"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/140.png"
+hash = "447066e4fc9466996f9b7eb2f87742d7f130c867aa964daef0e4e58806d3a90d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/141.png"
+hash = "895b5d10dbfda615101bd3d11330b3e477074a3ff26e67a4aa56320b5069a6a8"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/142.png"
+hash = "a8edf2280ee9ff0924111f1cc5c9bb5cf4e48c63a67287c88315ed9e4cb88fd7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/143.png"
+hash = "8fd278479152ea34d27a28ed6b1222eb1aab89552aa25149754cd25e02a04e3c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/144.png"
+hash = "d695e11f37e54c6a46ff73c4ae51600bfd4534deaf78c2390b6f983b9fbb2714"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/145.png"
+hash = "af5b9faa5262a38f82b7acb71e34d3fdff43657aad624c8548950150d820cb51"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/146.png"
+hash = "ba079cf4233175b1ff91bb16367b50bc64e98c34732869d415c8e1e939bcbe5b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/147.png"
+hash = "bf5fa8c9295ea13de983f4293f30c04eb2aac94c924cf44223fb29ff2d800075"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/148.png"
+hash = "923e1cc6865b4d8526b658ff664f34ec28153c6b741cad09e0428926ce250c71"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/149.png"
+hash = "03e28a00e6dd45cecb4cd6e29b8cbfb9233407395e0f43f419b1afe0cacf2924"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/15.png"
+hash = "f8e3c05016e6c19ca1f37b1e40c38186b8efd890fbf03a5b1bfd248e62189e34"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/150.png"
+hash = "1a3bdb187de331bfa695c64ee8dd997c8e0438b098dd2d3931979005d2f8d6bd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/151.png"
+hash = "aa227d23b2f4d9ecace08b62cb7de1cc8b9b9ddf60e8dde9c5d24a0009deab91"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/152.png"
+hash = "efd8907f4488685c8cdf442d9f7441b4f2c3f945c4085bb399ecb5bdeb3a9c18"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/153.png"
+hash = "a2baf65f4a816ccd4899cf002284f329e22f766376d7e432187cfb0de6cf784e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/154.png"
+hash = "066706fc16119d159f1db41d0c74f4c93ee5013d15f903ff5414385fbfe41089"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/155.png"
+hash = "cfcee6474f5939a9dac1a738910624af84736bba94d90fd9b1731742a6449f9b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/156.png"
+hash = "c860863160f4964e1ecf329ac11a492f43cd998c57c264397a128de9a5175c2c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/157.png"
+hash = "762b7fb1000522912f2c897f21e67949a9b1df8c84bd341cb77eef1deaba7916"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/158.png"
+hash = "1a819951fcba09fdeb353a1bc56b961edc7450789642eb6f4bf8206c50eef9ed"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/159.png"
+hash = "44dbf9f78982fdf19e66eaee97574df598e1e2c992cad47eb940661b2aa353bc"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/16.png"
+hash = "edec71898c891834abeebff527a700b61c5f4f51a5e05bbde4d2c6ec409b7176"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/160.png"
+hash = "e21e39d3983fee5d3a2a558c714e89675664638a2bde11061225601feac0766f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/161.png"
+hash = "7728570b6b2ab00b9a5108415d109eefed2c006f59cb5301f8d0a9211169d820"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/162.png"
+hash = "4a4195c5562c948a90e7172a99f7931586671d92b65d9518d5ebbb6413c2b81f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/163.png"
+hash = "bba1b9486e9dfd680d81ffe9ae0ea55ffbbc310dec9575b163de58c773d7f694"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/164.png"
+hash = "a4cedcd5b2750129787335ddb672ee6d38caee700c6d5ef3bd35afbe0c5a6b20"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/165.png"
+hash = "3af6740aed7b6f7736252bacd318599025924595525a2afa15e911a77877fbca"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/166.png"
+hash = "c3a87137a5153fa231b39b76b2d1662827b7907251a38e03b20b300ba363048a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/167.png"
+hash = "4d9781da5ac904c0e32cfe554455d53efeeee045fda6f70dd3e51d1e5ec920c5"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/168.png"
+hash = "f303c3046c8e2c2556be77dfaee73f546f5a13b0f52fd371662cf75d1addb00f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/169.png"
+hash = "57d2cc45d2e383f194d50929325e0f7994e9929cb6a5d7d59bc84492f4b4e141"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/17.png"
+hash = "b39ee0211f4311a2f95fced5c13646a67990fa572f2d6e6763e28a3b4d5e087b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/170.png"
+hash = "480955bacdc63eb1f6a387ed13b95cd947bfee01c18029f591335d19b8aaa8c4"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/171.png"
+hash = "bcd632b09686e7086251e804104527e82566d04665c37ba1a1ac76df70ac8435"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/172.png"
+hash = "3c348ecc983a90bf45a8f295c2f53c4100950dc7d07ccf17f24375609bdadad6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/173.png"
+hash = "043467fce8061c4d5f6f074a9759a647a7926607106bd3aed48968e3cf0a0643"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/174.png"
+hash = "b45790a15b8e3c8b1adaccf9000a20ab0cb9795fe46c0ec92a537d7b377a208e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/175.png"
+hash = "73855181e868325c3606759bebd3b52a21f7c69b71ef4ffef8b7a05abf843d4a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/176.png"
+hash = "0ac3036c98adb5784a47d513855244d4f1108405b721a728f96224049e9500da"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/177.png"
+hash = "b5396c0506cf5345a0ea9238607b934367020fea8f759c63f1063b1346793211"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/178.png"
+hash = "ef8a84f84e715db6da25abcd60ba14193874742cc6a01e79eea124c4ac317f3b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/179.png"
+hash = "dc8b0ef928309d7b918f2a91cfafdb80ca0ec79a810cde814a77fa23877b0928"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/18.png"
+hash = "294dbe6e98a51892d52a6c7f4f95c0436331c07344c8090b0e69a0734afae278"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/180.png"
+hash = "fce460890cb2bdb9066bfb6ca1ae45bf0cda5966553b1419a91b3e01ea9fefd6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/181.png"
+hash = "2b1cef3c635a732131c4d42abd50423498c377baade4ce84da2eafc6c6b1cd40"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/182.png"
+hash = "40c3ec423ee1a108ff3e39c439b846a1693bf938158dea8c3967a28218769a8b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/183.png"
+hash = "9ef7f838cac63f71f448678406dd86589cf6e8d9cf660c1d60cb1643d2a1f558"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/184.png"
+hash = "a6d2d1c511350b7a10e3f4ab2112508bf6f21d6c22c8d202da7978158db3e2fd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/185.png"
+hash = "144fd08cdae6716de267a019cf6b03ddbf71dc60463b99c855c224907442739d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/186.png"
+hash = "d4e1c4e4da564e96ae0651c7cebf3d9a462f19f876c9340bdc3c19532da4b525"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/187.png"
+hash = "5bedec3e2009b4ce4f359d5d2e9efb2dc775e02a62ff58c5a6c40de84a74b5af"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/188.png"
+hash = "1c3ed07d1da85bd42700474fe996fffff56b70d9da814566f0d8b3747d1f65ac"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/189.png"
+hash = "31a394ea38e72d9587f70fb8d91e7c988c540c90f8cf2a1bea4ae2b2bf92a48c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/19.png"
+hash = "657932bad6c194e369ef5a0d2cf04ef3c4ad0f5a27f734bfda18266a7d56a518"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/190.png"
+hash = "40d8853980aafc3abcf59e47a652d51ff0cf6bd1bf4e91ec55f2b95dc5a494c6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/191.png"
+hash = "bcb16172d5b8b4c981ceed3373e97b7e92898c55800d4c2354a31b370e98a7a3"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/192.png"
+hash = "9e21eadaa89870b1493cad8fda67813fec26e99c983472d322261a939bb9d75a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/193.png"
+hash = "6f047bb2b014e61ac59e70f681a74dbb898285726edfc1692d7686272ccf6b77"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/194.png"
+hash = "46a13693053cd6ace41b5706a5426cc3abb85e31b164163bb6f49062fae0b085"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/195.png"
+hash = "70055bc9e4adf430c524c369837880e524fbc9d1431c0a94de1d81a065cbf58a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/196.png"
+hash = "fd43cd439758d469c2185ebba501ff2902c25cf4c11c25f9a3481b6dba3b0439"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/197.png"
+hash = "4e08e577ddce03b21bf5d1491e156af0cbe6473b171f2db5446444ee979ac043"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/198.png"
+hash = "c827b3a6b7106486194e6b3f0029c0bfaacb5977d7791d258299c5ac43544a35"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/199.png"
+hash = "270c295aa12c867a1daae916c6b63d6919b728dabb5d3087e5aa658f8d8a0640"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/2.png"
+hash = "74bba9a25a7df382f90bdf8a0c25f12220770f99abfbb47dfa7c70c1627ed814"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/20.png"
+hash = "37dd8ffd40664ef74dc7f94929d7bed7e6ef863ef248bd088ab17ec44b7c1583"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/200.png"
+hash = "37536324f0142b744affd6f9cfd46f54ff8872bec8f07e17827d149405a3a7ae"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/201.png"
+hash = "2fbb7c240fb937fae1121b23fd77ae2c8738a9702eab8c99b0372d7c45ec596d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/202.png"
+hash = "c23c9f74f138f87d3311d2b5e06c4506f4aeedfc7d9c415eae86719a8a952019"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/203.png"
+hash = "3e050b8331efda23364827fc725e20cc59f52ca8683d695472b8adb53dfb9067"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/204.png"
+hash = "fa6fa873334683763301720658279e1f25020bb695b66c403e6fba5c685635f8"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/205.png"
+hash = "1e857bbb5c7c4e48203858107f2239206e1125ad8bcf52994a320088c05bf04e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/206.png"
+hash = "7b52f5a480c953c577fd522a40343c3265bb087501f26ebb40f62602a979194b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/207.png"
+hash = "ec5832e569fdee9326c7a597a705ad674a8e1dc294c4735b859611700514c461"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/208.png"
+hash = "689aa25617da54fd750dadd9007dd824ac3a5c824b3bff7b0be9a1a24931889d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/209.png"
+hash = "af1b3ebd08579abe4db44950dcd6e265326b0fea34c5cca13a33a8e2099feb56"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/21.png"
+hash = "d61c4fa21ed054fcf9adfa13abd686430b252790cb0bda994a7cadba635e8ecd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/210.png"
+hash = "d0e243ee6d5dbefcbda8e5285b172f79ae1724b42d5efca85de3e4c77f5721cd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/211.png"
+hash = "d2e81f5359f45bed673491a946cda93fa64f706e4ecc2a63f5ed62ca964aa426"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/212.png"
+hash = "f7104f0a2de4591c6fa7aabd053b2a84dbeb62daff1f7c4897f70a99073f2b23"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/213.png"
+hash = "d5c596d84082e84b98175dd46cb40c9f748b51e5f086b603f6fa99c228b35c0d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/214.png"
+hash = "0579299e14708c0903cc95f1abddb18001de1c0e447ee36c4103aeec47808155"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/215.png"
+hash = "065b90f6c7871ad235879d1a570b77cc272a27603543daa5aac57d147389a3b9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/216.png"
+hash = "1bcad7ac8df7375cb939d0ad179e54c48b9257710d3029b029e6862799c57a96"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/217.png"
+hash = "f30f3420f6a9a43e5d1664167ad82aec4c80ae37b9ff0e85d1a72302136da72c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/218.png"
+hash = "bf36c9f3c24cffc3f0d64136c2e1c9dc52433f005149cff1843b574aa80621ec"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/219.png"
+hash = "9a2335237b72af157f198183a33ef9bfc69f765fdc67092245638fc3b71ee07c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/22.png"
+hash = "44dbaa5e4da2b910b35a7ef0d3e00ccb7a757c43b4b57489344714d1dba0378a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/220.png"
+hash = "aabf38ac5c11d86e8ace8906a9c5d20b9e579a1c9a9a295310943dc14aa6be46"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/221.png"
+hash = "14fd93059c129aed46f667804e9eb4385bf6558c59e4b31ba4e28fa0859864bd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/222.png"
+hash = "ee92d2c32bf2fd60d5be9d216cf7ac526e49927005c1cdb72bcf924a1aa025b7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/223.png"
+hash = "8066dfb1014a915fb35d1495863f06082aeb7372ba39af8e095b4d20259e1c19"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/224.png"
+hash = "27f56b24863af3d3005c1d82c2edb1a8401f6978cf62ac7f1e7ae58c22a1a562"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/225.png"
+hash = "2185dc2d0f02deef01859bb80b07f96ad0ec9e0da9c396c68fb2ea7d3a855719"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/226.png"
+hash = "abab1a09612cc7e204a8e41825acbed652684815f793bdd125178061bf9e2511"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/227.png"
+hash = "a30f3e082c97fa85e0fee926c816904a9a43031e0ba4e5ab0d97d022838c2abc"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/228.png"
+hash = "12ee64e606fef962114dc589a239dce6e8c0319e118cf6fb637fa4e2b435d105"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/229.png"
+hash = "1f7189a8f3be397d439c15ee2b3a54f15e3d21b5ec12dae193b72ce384106a20"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/23.png"
+hash = "9c5fedc28d52d8eb31134ebb0383ebcb0aff8ef448c3739dfad8fde43b4797f1"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/230.png"
+hash = "3c815962efeab2ec72f7553d2735da37270f472c5241eb15d6698b8b4027e0ae"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/231.png"
+hash = "95c3a113fea3f0b8bef1ec2b20567c12c57b5495494cf92244b2f9ab6cb78d82"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/232.png"
+hash = "db8b74e86eafdfec9f18a755af0f1df4563f0d10e947c2ab1234af92fa7517f5"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/233.png"
+hash = "5504aafe4b643d967faa5308c04f3b2bdca7fbbd0c6fa455131c163e5cfffc41"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/234.png"
+hash = "af189dd1f9ca0966068f50605d15bc450895c97ec8fed77875bc6873c7c6c550"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/235.png"
+hash = "7b05a0597cfc56fcaddbefc18f79605b949b1fd5a728355deeee4e95e3349e4f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/236.png"
+hash = "016ee59e770dd16aeae4996e879eec12d0c3a26d815db0b27b35b77d4aa69acf"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/237.png"
+hash = "61f133b9e6780bdee46ca7c403c3704bf76a78342a82f9149ad9b7e82d79fd08"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/238.png"
+hash = "64889597ca3cc938dbaf2368050cce8b8fa0049b784bfe3dd6b11abee10d111c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/239.png"
+hash = "c944860556d6111c25ca66eee56001ee116fe0d98ba6cb7f8b1f1b03693f7a3e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/24.png"
+hash = "16fea7dd9e46ba46ae3b7ce76ff3a42799f557d81f19fd9ffe6cc747555be642"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/240.png"
+hash = "30abdd5df392b803513dcecbf78191bfe742817d8cea172a78a39a9eac037980"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/241.png"
+hash = "4f291e9d062e401622b893f956cfb95b364057fa74cd8a19752f88b7d5c3d998"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/242.png"
+hash = "f55ead01f2b7bf9a9069828b448bc4e8721ec1efaf0a9a6bc3c532aac7f662ec"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/243.png"
+hash = "dbbc8490d41a87a2de62fc5d2ac6ea7627b301b3cf1a82c225b05a34554eb625"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/244.png"
+hash = "5086e503f827f0650e06e786995e81ff5a11b6bd3685c196894c8d146ce18e81"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/245.png"
+hash = "1d7c72219c037dc508f3fe5cc77ffeec3b1b803f97c9067c5f35b5fc4b780a6d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/246.png"
+hash = "9507d1a7d10e10fe3170a1c6590c557eb51d16c93ce4b3f8866701c8875e6c94"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/247.png"
+hash = "2922437a0c009c4472bed3c93aefd349677fa336eec650232a61131f51fd8b62"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/248.png"
+hash = "515752d77cb1cb00c65b619a81d9124af1e3d7127acee23acdaacf71c98ff250"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/249.png"
+hash = "09f02c7ebe012c10f00ca44f111acac28efeff09f44be47a1c359e28efbc1229"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/25.png"
+hash = "722c3d510b5e26413f54503ed71b5677bb7223ea1df7288182a5c86d9c8edc77"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/250.png"
+hash = "758582bdaae0bd0812d5037da13601ea2ae63382d4b66f38fff2f4d4a1af31b3"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/251.png"
+hash = "3671677dad460e2241d09cd4bc65c850bcc852abe3e2d02e3dd7308f92077169"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/252.png"
+hash = "682aa7458bf26692bcf52a64efb868b904c8a98153f1ace5c3d742ba83d595f3"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/253.png"
+hash = "0918a9385beabe2df9d26eb88153e4f98b6e757912dbc7e19dc7cf4a19ca9701"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/254.png"
+hash = "5a94e02a14a36949727e89a08e930af19ded215a9bd3e0f6f453f5dd26df956d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/255.png"
+hash = "da13ffc53e0506dbcce55cc3c7699c0fc08b26504dab812c2d7c19ff9b898d79"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/256.png"
+hash = "e35ff8e3aee2cbd5e559b7b518ed6d026b3622422c6cae492cec38db0ed722b2"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/257.png"
+hash = "e1cb94c46b600fc1cf6986838605e61d057f8638730f31da3a8d0bf7e5ed5f39"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/258.png"
+hash = "8ed9ffd931e19b7e02837a6764da7e97b68aa27c2da00efb45c944a26f976a32"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/259.png"
+hash = "7cd07fb3b85647e835a00c3164346d911c2ccac2494616225837c61254f991f1"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/26.png"
+hash = "1c586dbf4efee7726a91d6fa0e6dae1d44bd77f46585511afc36aef6ff1045e7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/260.png"
+hash = "3f579af3367c5f4fc9757afca408d957d9f4bb12d14b915efcc2650f10611c39"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/261.png"
+hash = "a6979e74be5d80abcf908d475e63c3048ac59e6925f0aa4383514a75187bef25"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/262.png"
+hash = "6b0fd77a08cdae839c3b44bdd343b5ceecc18e21975189d537fb4b53e3f268d9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/263.png"
+hash = "5a5c201ac7c931c88c72eb6d8b5e4739c1a655e9002704d060db0e6ea36222a5"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/264.png"
+hash = "43feec4d7c73c5ba04f8bc54887342f0cefe5c7a03c50d72790e1c5cb272d7f0"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/265.png"
+hash = "6a6e22deb18f4aaed269cd6dabbed9e98358174abbe4715cba7ba905c8d37039"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/266.png"
+hash = "92dfae007f76efc9fc049fa3e0acb0fe55916ba9649b28a5c88d92668210bab1"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/267.png"
+hash = "c823fe8bb270b46c28eee90fe87a552aa82b038cfae68dbb6cc96bc40c5ca44c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/268.png"
+hash = "bc8fd179603d9a834b4daccc1ee4ce3e70aeabe7cd7a9a47215a9bf515de1a58"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/269.png"
+hash = "c4441537f8eeff112801c35bc5df33626811b38f8bb3bbcfe348e81a28594f22"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/27.png"
+hash = "8babf54f2e4005eabe05cf69d0a25d08b7dbf07cb28a741f94a5859438a99a52"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/270.png"
+hash = "9241fc43001076c95773ebd402120a373437ac834d7fc903112dbf2ec3a40f11"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/271.png"
+hash = "8c0310290154a1dbb784bfaef115e2ce3171c3b260bc6759ba40bca8ece11c08"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/272.png"
+hash = "da40ba1bf501bf776654078399d9c2f71f1a19238c2e97fcd04e5e6c609f0d10"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/273.png"
+hash = "024e31fbb0a6288fe6d0f8dff105d9b6e7347707374f9180ded296f60e8b5cc0"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/274.png"
+hash = "6952bd32dea26f2e3cb2f91b018f67f3fc1ce77c30c23063c705b4bbff26aee8"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/275.png"
+hash = "0ac1753b795e3ebc57f808963f608d7a79f138ea733dae7aa2e2eab5224e1a6c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/276.png"
+hash = "17f1dd4dd71ce3e8edb800e0bfe33f4f275d8f1e8f62c54a87d53a6e0cc1ea2e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/277.png"
+hash = "e1417c783b334ad13fb3573fb80f4c6b07f77b24b0ce1fda9104e4e23827f057"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/278.png"
+hash = "b5059230ebd431d60a87fc71764b24b2af37ab7717fd543a1e3c7a0f1c297dd4"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/279.png"
+hash = "f46eb061a9cef41d73bc50b7d20077a40be1b2d404895d9c813b8db3d8bf7485"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/28.png"
+hash = "25c0fb2469e38a3839f49e636966bb9ab2e6c8264f3818d4bf2e7338d933166c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/280.png"
+hash = "31bfe17d4c279c3a93933f8d914f1dbaaf72437ea2c99e4417e8ae904e9a38f6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/281.png"
+hash = "69bca6726cb86e8dd287ed26abe242cc169895ba6352a768ecd72022a2addf62"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/282.png"
+hash = "cf590647edebc8e7943e9f525dc7ff94c7f57716f7ee19a8abb8c532e0271bc5"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/283.png"
+hash = "9a2e9458b7e11149a8a20156c6bc58df40ced2344bc803658fa627f0d6791926"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/284.png"
+hash = "c2a3be3689cffe7ccc14b315e11126b60d8a56468432a345554a68121829bf4f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/285.png"
+hash = "5983d535883e5c3373dbd176d46c961d4bbc8cb3b27c3d657c7679303b1f8743"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/286.png"
+hash = "b03baa5a38a820ce6a64a07caec7b9e0788c3ed4d7e133b53f426e9c896569fb"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/287.png"
+hash = "44f19dc2c0a2d3b9e3d97b8904e2752e5d11459adff283753e9e5e29cbb56b19"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/288.png"
+hash = "102b2ac3ccc1e9ec9b587fccc6275b7b3c1ef7f21b336cfd9e7408afa3e1fc60"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/289.png"
+hash = "890ce0726f12604879afc5b609e6fc8cfdef8a8a7f224c705f670c4700bef58d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/29.png"
+hash = "36d47664703e7e65cf5d0bfc95abf25e564e2177bf06fba5bbfa3a4a1bb3912e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/290.png"
+hash = "6da82fbccfa3c6e9c36c729f6d5eeec3697946855667a986a85916295fe582c7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/291.png"
+hash = "86e8bdc0591b2b01aaf2b715ff9f24eda61dbefefe19fbf9bc6896c28171064d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/292.png"
+hash = "1b520bacb4b4dd3631d730e06590d98233a0ef3a808ee5a67099521d5f14c976"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/293.png"
+hash = "dc80de82c96e7e1b0fce60007dac11b50d618184a1fdc43ee9a5d3fc223a9d2a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/294.png"
+hash = "25d41620988f3f04cf442c77998bce37f04632f538d1956c754ebc10913d27dd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/295.png"
+hash = "c15337c84312fc6351d84d0f80ddd723b3bbdb7cb3c93be12998247840d28a86"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/296.png"
+hash = "a6705d8c5c2bfcefd7d0d4757864575a0e8252fa2c72dfc09afc2d2650015ab4"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/297.png"
+hash = "78f3e210e2e5887c02159ced28bad655e9d6f5c7207e1451152b0a3de42fc622"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/298.png"
+hash = "e61ad87cfdec1b002bedd954776e0c6f27c9642b3371ae384b97bc83fde43df2"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/299.png"
+hash = "8ce8751d768ee36a479df9d048bfce1a69eb64f05db9963a49252544a8acb925"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/3.png"
+hash = "b82a69ee3cdb5b7cd6a83d97816c96d875da216f7d28c010297e8ece1e0d3241"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/30.png"
+hash = "0bcc43f998ae3a109ecfa4c73a156bd0af7666a14a586e8c78aea6c757edfd6a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/300.png"
+hash = "267a5cab3c80077f5bc807743e4b2db0d863df88147bdb2a1735c7c8af6b7a63"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/301.png"
+hash = "09e9a5f669000da0a5bc1086908af7e9393481aba86b18bdc089efa7e38d7d8b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/302.png"
+hash = "4e4c5544d042b37f4d958e46ce286c9a9ecfd96846813d2488cc8ffcbd580236"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/303.png"
+hash = "384aae646216faff2d9dc1c895dba415c830bf6e9945c5f6cf45f7a3f8bc59f1"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/304.png"
+hash = "edab94dac77cbcff7cb5ca4441f9e97519103d27ec4d35398a18c1743bb5678c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/305.png"
+hash = "78d54a199c1c40976f28f3607101b9b7618122e71dde773b282475357a0fd24c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/306.png"
+hash = "98e1bb1a1b9b66d93b76ed95a26db57c8d3a27386e17b984ab49df0155bb9c5c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/307.png"
+hash = "ffdcfc2aad1d7cb69a4868f71bb18a9e97df9262d5620f70338c8d812942d5ce"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/308.png"
+hash = "e16303e76fb70f886c55d29c7711ba4bd6bdf132f6f984a03e4a29f25b71f7ee"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/309.png"
+hash = "4e95410702844d33b49c0a2e35820bd180520e8abc242e97e754d226ace77826"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/31.png"
+hash = "159d2853314bd5d6c1343bbb58c54544343cd0301586d7984ed2d8dc423d9a37"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/310.png"
+hash = "4194cd1c851ee7c6a9791f435a99042f024dc8edd76c3b315520b211f807134d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/311.png"
+hash = "b8abb9f85b7310fadb751824bccbcb35d50ba55ca20e9fe16f8f4bfda70949d2"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/312.png"
+hash = "0484e3b73e4b67691c60e96925d34fca1d25e212078f510a9d6ed7ee2050c55c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/313.png"
+hash = "ec3abc564705c33870cbc509d37dd56df027b20b327b0d81a6e236aa680ee7f2"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/314.png"
+hash = "cf7bcde3a78532b1e512d8e8e2addaf515d2182b8281ab50bfae38848a84e477"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/315.png"
+hash = "c3fb7496bae4797109c373ac5564f4d75d338abd1d8b5b567d38ae4251aacc47"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/316.png"
+hash = "38270cd6fd2bfc39aa924097237da21734c6146c1f79190129a5c95b56c012e9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/317.png"
+hash = "0ce6dfff03707e4ebd2de0d2faac7debcd91cf0bda4f7017d74d5830edf93895"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/318.png"
+hash = "3fbf704245cd1e014a72c9da8f68117c9101cdaef6840b88d87c20de676bf944"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/319.png"
+hash = "0ba07cb904aef80da887bfc7ce9b6ca16bb21ea229d1b574f5186f9128293edb"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/32.png"
+hash = "087a4262512811f93ce65a526e34f572f7338842e32c64b08c8562c1e5726289"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/320.png"
+hash = "9b7c097c7af7a4be2f8bed61bc2226ed49b70422afe265e905933cfff0826f99"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/321.png"
+hash = "e5c3ded9fd0030ae1e0062f0a59f5544a5e6a11bf57d20a64fbc88ea990b61d6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/322.png"
+hash = "9bfa04dbce3741e2dc16349bc4755a9c0242217112a53d0d592125a5aa658892"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/323.png"
+hash = "2718a34df9357d1b2f516120a174960066af5d2d532e6c15c45e2f31e6209024"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/324.png"
+hash = "bd0218926cc7db4216478964a823e2876e7ca6cf1c10b43ed6faf5ded7c070e8"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/325.png"
+hash = "f6c632e26ea00666c9039e3e8226e58669f8081b49d59ff13d30018a8cbf128a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/326.png"
+hash = "12394fd172af77761ee8f324f2d1b9f75a7dbd3f5674f5ede90c2d539b30db8d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/327.png"
+hash = "fe3a5825422ebc528b88560909d6450184fa410f5a5f4ac3f08b63272a73d941"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/328.png"
+hash = "d5eb6bd0612765836efe440b7818f852fbf3601304a9f2c3a0e5d0f8918f13b7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/329.png"
+hash = "2b5ce880b98d32ba4ee3ce6bea6f1127997bddc5febe7f18f487691e0f64547a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/33.png"
+hash = "2088a295741b37d07f6f765cc9fb648223832509a31855ee4428be8385ccdb3d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/330.png"
+hash = "c754bf1300fe4c5a29400d3e87288c0bfe227989be8a45a5cf3051a0feb9d140"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/331.png"
+hash = "706c477b40555be7f0e1fb1c4e7e4269edd34e42b11ffe11c87b0e93b8384377"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/332.png"
+hash = "7d83e5d22992bd98b54c463ad2eb4e4f11f16308404c3417866298a99f1d63be"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/333.png"
+hash = "45d92906644c456ddd9bc7f9e2d76457d7a6abf1b94d5c9f8637749de3f71b69"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/334.png"
+hash = "aa0cbe4b4c520898a013f027c66a142b78636cb3e871894846830841de724e3f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/34.png"
+hash = "255c17a4b26477a2091424dbb53a0a935191c0ecfe58932bdfc329f0bc1fd8d9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/35.png"
+hash = "5e4a6a076087f34572c122b5a7da1d5030c1e7eaa2aa0c44e3ecb906eb5bdd9c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/36.png"
+hash = "f7251ba4b65d5a32b9e3f18fd0138e1676bc53a130588bd0a252b9f648592360"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/37.png"
+hash = "0e02735bedb21164420ed93260ded321e4de160f0429fed071a0b068cb922a2a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/38.png"
+hash = "063e5865953d057dcf56185254dd059b13b18517160b5608227e158d3f86f915"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/39.png"
+hash = "7fa42de887df6aed46d2ff8ba3df15b26feb13afd41e8c35853d6e10a7e61240"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/4.png"
+hash = "816504c2f094cfc46af2a5366c953c0e95893c98987f243171c1dd5972885f15"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/40.png"
+hash = "d32f25d333fb6877a56ffbc2c865f449d79ad10a1f10a06ddc4e97c8b0c0a630"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/41.png"
+hash = "d7fdcbdb44e05ddcd38efd55695960c25153bbf1c3668cd1ed51857cfbc85486"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/42.png"
+hash = "90579453faaf5fdf06258ca4542c2ca0c6a9214a2b3edae807c282f1029f5bcb"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/43.png"
+hash = "0450da397735be3997878b72eadffea214c469fa6c759a58e34bc13392472593"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/44.png"
+hash = "ec404e14337bbd9f8738270386a67519fc9f228f8bab8547cf0cf09e022507df"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/45.png"
+hash = "935dfd98fd0faba2b99d1038b33e2a2e372fb326ba7627a2f8d14c6e546a9fd8"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/46.png"
+hash = "9a5b8018da70ab5efd6ef42d2537b84e113b147cc58c1596602204e08b6ffdf6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/47.png"
+hash = "97c935caaa5b1ef30c1a0c6b3a9b16aa3c4d0f43f4d65ee989ed2fd0a1a85e10"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/48.png"
+hash = "d76ebebe1d2ecccb4e2c1dd78bcb887b016066ce615f49d8386127851b232452"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/49.png"
+hash = "2a49c3c9b598ace8722c4108b86dccdcc61393c6771c40cfce755192b41fb550"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/5.png"
+hash = "2a3a284c275792dd6435fd1b0b1aacdd22ba8fa531ca4b6c4d4d41f3b9ef2614"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/50.png"
+hash = "e069e90c087519d0c6a1bc9473d6b6ec785e096630e3d8e0fb53a7327ea5d4c0"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/51.png"
+hash = "778ad3987e72d983339e1d2aad7a3a9d65efeb422f50e2500e8d8b6b543db435"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/52.png"
+hash = "2da27ac895acc8da48360e24f923c0cdd11f406562c0cb954c4787907eddb187"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/53.png"
+hash = "88d5fd44486f12f34d294c419052f22efe3e8697cffed0a65202204f4cec882e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/54.png"
+hash = "828f14917a641d1af4167489462fe94d44fc533427f42cf2e28cd33c4123cff0"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/55.png"
+hash = "f1ac7c875fb94e5a48b44bd0637d5eee82521383452ccb1655d67d876f47f3c2"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/56.png"
+hash = "97edbb1c58648a3479edb039a67fbd68eafa6f94470b5b46867e1c5e6ed8d423"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/57.png"
+hash = "83a72d1593b74b8eaa72fbd155db21f4fc288e37429c5850ee19b0b2d08b36ec"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/58.png"
+hash = "821cff0af5f094e024f2a18ec5b965fddaeaab14f15f156bcca79f75476a0028"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/59.png"
+hash = "d1028942e57696c454fa6987b1920396a3916a8bda858bf041eae0451b60fc25"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/6.png"
+hash = "c9359759f2d089ce4d562fd0c5b3c7d83b6e38e8cb5c9fbcc36244bd72e4da90"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/60.png"
+hash = "90fa85cb21b8db6d36a32d842f8c5b3bb3b49e9cb19a4d3ee94df016bf30c789"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/61.png"
+hash = "6eb93f02fda02d1cf3b9b532c5d1fd2ebd963d9bcf8c1cfb646f00f69a3646a3"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/62.png"
+hash = "fbb984edcc640257d8a020add39a63179a4c3984a3edb5ae36ea58dfee6dfd40"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/63.png"
+hash = "af941c54afd0951ab906bdedb6acaf2c0dd6b99a893c94d1a7fd6fe02998aea9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/64.png"
+hash = "c78fd028b6f93a451b78b50b061a9cce65cac06dc9f61919e49c9b77a9137e91"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/65.png"
+hash = "47e6d4193f71fe8daee9a31930641fb06ac143243381dcf378d2b98384f66876"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/66.png"
+hash = "adc82cf1fae0f98cfdf15836b0896504abc83f3f797d4ef265b6bab96c2c1e1d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/67.png"
+hash = "b426ffabc0b3e4514a4168fa48d67d33b81508f7af6878bd206d3eda44b1123f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/68.png"
+hash = "dd77f89898bc4305d9e2402a4d43e8b714148fe79b9228176e20538d422ff99c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/69.png"
+hash = "1606e6136c34d97f7d90ea6f9b962f6fd2c20c6912671ac8b660a5e575091b27"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/7.png"
+hash = "ba0cdc4a54cca8f27e7b92185c12a32e5eb935d494f380413231b050cdc14176"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/70.png"
+hash = "f4fbbac18085381f01aee2f310e5ce127430d70f972448f3b1ef438d80671beb"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/71.png"
+hash = "35e245f94c68ac5238fcdcb75c913daadc04969195b5e0fb071a6f12c179efe9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/72.png"
+hash = "e2d37c788506ff6a97d014ede58b4314914e51b994b00e244da186f70c1cf131"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/73.png"
+hash = "d032e321c016220f4151fe00e07c043f61537246b688dfe1354b64cc6d4bf866"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/74.png"
+hash = "4d96bd39de86342a619f27629dccd06f419b2cc192ca98b5791623e361c24ded"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/75.png"
+hash = "0f867b13e30730323297aaa1072ffbeceec8534f2a5e64dfe9aba33987e11cd0"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/76.png"
+hash = "7f22ea89f7e58dcbc2ac9052f8e3b0d1092659f9c0a5f20ece6ace9ba05041a7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/77.png"
+hash = "3403115e9629d623ef550c6499c5841eab5112b6146a5a7a5c7ec61c0d1c48b3"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/78.png"
+hash = "c1f173069bac41316b041c3ee8fa3e89614248226c05da2d4f607436abab5ff0"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/79.png"
+hash = "0925c227b338adb42dcc516e55061ad906fc1efcdd3a7ec13c2d23f4aa29c944"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/8.png"
+hash = "04ffe3b859ee9957ece78e75ecdc0d293e7b9d32d935774d9c7defd98bc17f7b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/80.png"
+hash = "014a6b9267efae9b9dd711723cc90ae87001fa0e58cfc7146cedbdfa98bfc177"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/81.png"
+hash = "a03087f1fddabec61544f6efeba99fc44f0d6e5986103ed33cd7f00508ec1d21"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/82.png"
+hash = "7278bcb58e358fba0fe8e71dfec118bbf90a581413a0bcac8924720cfba781d7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/83.png"
+hash = "1f9b589fab8a177e92c3c9c3ee7b7686cd0860b800cc8c3a58c6fd66ed03c87b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/84.png"
+hash = "080f5fcf48f3ae182b2c210f6d8fe3b2b1b922b3a60c3fb29343519d23bfcaf8"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/85.png"
+hash = "e93fbfc3165e527d3071248ae69bec344469368e8d45561e366fdd2ac1afcb44"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/86.png"
+hash = "7c5370b1ac81b6ecdc4b39d4111bd4e8780049459fa3fc03672d246a9ec20db4"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/87.png"
+hash = "2d9ed2b33c5d4be3a45933f3ac88e21b4e277003faa3b83fed724b0a2b9d39df"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/88.png"
+hash = "1cadc24678dc84ce538f23779c2ce4db68fbcc89d57b07cd080b76e41e753bb9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/89.png"
+hash = "b15e5ec1716f38d5c79c914d35f63eaa7ab6689ed10ede8facf7dc93e82153ea"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/9.png"
+hash = "4b8c67bdf4f38f8284eb77d8699650d54fd7ee549bbca146fb5c254efada1c36"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/90.png"
+hash = "75e756c6e0cd94865d0b2378be1f4d8ec8bcb0e2f61742544c040a75d6f41f4e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/91.png"
+hash = "f2014e5c1fbf16dbb9d7599b7d6e605414c46c936479c58eb9eb1b12f498bc4c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/92.png"
+hash = "853a76ee5c9e01398e62e644ea7d0ca8b1d3dd53e2fb188b95770a211e9b8d10"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/93.png"
+hash = "4f0d54d96f1db7943fdb2aac7aa720cc6211b5cd5d36edb77a2da40ad5beeb3a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/94.png"
+hash = "9c2a0e5f20254a3740f80e7847bb4b2c1300534abf702d7d53ea85bc1f691477"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/95.png"
+hash = "aac2e1a29dca7c1622f188d0f8130d3075822419a8ac21978b790341087e0d68"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/96.png"
+hash = "59794b7d295db24e65fc2808d4abd50ef0609277ecba2c63c0d3339946163334"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/97.png"
+hash = "4172248f4a841c2df06833c90a7a961a055947134f1bb70ae4926e41023f1da7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/98.png"
+hash = "eda3433ddeaf43d2469b61978b0bc8035f2cf7540904d2224e9b796c48a169c9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_intro/99.png"
+hash = "f609dcc984027d6455484f5e14754b962cbfc797c1dc1d16205e113cbac5a158"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/1.png"
+hash = "929987cbce91e8e0c271484f24c758bcb5c46ec62329fffe28d2e3b8fb2d715d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/10.png"
+hash = "4ce5c0116259f39459cba7da06614a19b43ef4ee5f9fb2db1b1a5004e0d10909"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/100.png"
+hash = "5ae36d2f142a5aebeb4eb664394be807457fc50c4ff451dbe97e27dd622b1ab2"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/101.png"
+hash = "5289db290ea7dd607d719c28ef90a3de70273f7338ed5840a3a624532684a1e6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/102.png"
+hash = "e5f08adf1c2a959ec6998923f83b4e9c95ff0727a8090c386db907722b6c6789"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/103.png"
+hash = "5df67801e1d9175cf54aba08bc82ec0a0d8f183274652b066f70ac546b0d9908"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/104.png"
+hash = "b4745530dd270765025d54dd607ccf004d7a4fb901adb0e7ddc2f34ff9a482ae"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/105.png"
+hash = "ffd4d3792e246c61a2ebce3f0d6be2e1f1d5d040f3976b1782b9e96986f8ca52"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/106.png"
+hash = "15e6301717fdc898b4ccb3e2ccb6b5dca0bde4c69523d73d6e3fe83b52c5f5ca"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/107.png"
+hash = "3c3a76eb96a0316d1617f8d03d60074c2e925282041e3861960b83bba284de14"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/108.png"
+hash = "595809d81103cc35b64b16da8ddd7d73a02ca206e3c2e6ab83906048129e121a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/109.png"
+hash = "90fcd4977678e3784ab62c62156ebdb82a167a99a466795a9a33cd8d3a5c4ac1"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/11.png"
+hash = "ce524e95f66c14543c37b8f8b5da8fceee1e6e6a780229490387ece2a542114b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/110.png"
+hash = "6c24f39e569d34f5ad09a3ab2bda84a6bd07620ca21fe69124644ec63795838f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/111.png"
+hash = "73365a77d6a10db363c9bd41209f8c7a823e7f0dbcbd9a9f38083216d6b13b51"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/112.png"
+hash = "6f12f7ef62cd0488c596cdc7e58c71744379a8d1ae7707ceade5983697d932ed"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/113.png"
+hash = "a191c6f8cd7e0153514188cf14544c9e4989d5617fa6b066c4b3aadb91f6ba4e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/114.png"
+hash = "ca99307787b0baeb68f2de2210c8805969e73a3ce4c25577ddd027174669ba27"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/115.png"
+hash = "b3b2e845efb26d7e8ad4ecf16b25d004accae4270d54465776567e167cff054f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/116.png"
+hash = "72f078608e4c51c1f5bced20d7b0769c2642504f19b4f0a2e7238c7329aef79d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/117.png"
+hash = "2113366a00f4e18617449da1a6ad5c3865bb2c6fe950276c6e95a8bc0972241e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/118.png"
+hash = "4b1cb9094704395cb39ec00cbbc96d35379ebe2ceeac83ac5760358b3ed2a195"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/119.png"
+hash = "d533529fbe89270a1c06284caecb826522d1d038caf9625a366e08ec63b1a0aa"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/12.png"
+hash = "50a5d4fc2ab9b3c770d57a21101590c082c108631d46d359a010313e3bd7e45c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/120.png"
+hash = "d9f35d106296467e0ad9f725477dd59fb8b52bab47c9ea635e052702eab41e87"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/121.png"
+hash = "0e6e83ce2e22dc090dca382e740d2958ec9534d7b81e2089d49ab2ad32e65e48"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/122.png"
+hash = "78485f227f9b877d0e6ed91f03950c4fad85820ffb98cfb2238949b56cb7479a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/123.png"
+hash = "b05a25ea17a87934f44b23f8efbb3ff8b7b6d58389ede3d7682cc6128125d0c3"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/13.png"
+hash = "9312b22f82329fa8517bb1066737c73e8334176ed810b79d2af0c11e20274f0d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/14.png"
+hash = "ae08cda5b1c74d6d7596590446aac599c355d89fa8931c29a13555d9faf5524c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/15.png"
+hash = "eb34fda5e6588b40627edac63511e66ab5e9ce786ca7bbf5d370f2c3dafe34c6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/16.png"
+hash = "aa17e11aa9f134bfbe9055416e5a083dab50a3e13b4112a98137e8bc409ec322"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/17.png"
+hash = "41a034b9663a3443d469d9c0ccf927fcf79ddff10b173587b37ac588ef8802d4"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/18.png"
+hash = "45dbf2c2064572d7945c62c994479927c7ab759fe83bd837bbfb1e2bbf759070"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/19.png"
+hash = "549f87dc69b9508f6b7a373f25ad6813d41a6a983fbceb5489e26b4f3a1e4ca4"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/2.png"
+hash = "d9ccae773d79a928f8958cf01f19306a944d8fe54b0a0b44ac48f94543bfcc6a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/20.png"
+hash = "ef9283ee513ba4fbdececc9388321a1e88dfe0391b6ad964ae3bb82769b03c22"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/21.png"
+hash = "9bf5e3fbff2896765f03e5f56085c3e616343e671a03604167dacf2c1177b5a2"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/22.png"
+hash = "ea42a8b0e6cb67f9924070a5a8fee74ed731225c76302162850e6e3fa21de6fe"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/23.png"
+hash = "06e6effaceb36b09e59c89975eca99a3f385a52bb9631e8723e35a21e9522691"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/24.png"
+hash = "0cd5dacd4f470ae18861353b7de155ffc3ba3c515b29d0d794fef906eab86c0a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/25.png"
+hash = "a86704c0fa9de52c9cdf8c3b36146f26744e89775155e73d7f97ca2a50eb626e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/26.png"
+hash = "a3d5bcdffee5b130b45fec010a9f00e539f8f55d6405c9809521c18df915fb7c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/27.png"
+hash = "d6946c25f20ad8823e88b298c7207290d0c39518cf13512f84177e90c81fffcf"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/28.png"
+hash = "d135291137917406fbabef43b34a14035f8c25d252a1808e0636de29a4dafb4d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/29.png"
+hash = "fa1343ec7c859e11287f7b7968bca88daf3a256ee5ed23a5d5c30a69b921da66"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/3.png"
+hash = "52c16bbd15d14536d4488a7f14ac4c7b5c5d7f1b0ab2c749df560ed16261eb13"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/30.png"
+hash = "6d3a0809db9854c233c0bf351e24a9283b47ddff5fddb16d0544eac3f1abfff6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/31.png"
+hash = "73431b128d4aec72568458fa46a1342befa85cb6b7e2230ef2cf5e5795c9d2c1"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/32.png"
+hash = "e30ab30a88a013c04a4460e0b131be9c40ac337392fe1b8e500fd0c04efcbe5d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/33.png"
+hash = "efaf5965f2cc174e011f3a58017140948799ddb48de65bc0bc90c4d2abb37dc3"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/34.png"
+hash = "72630822f259eaa5b48c5a9d043878a65065e0a7f2ad56ed491930aac6b5e763"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/35.png"
+hash = "9b81b446ad20aae4d854926a8f6aa8c502e995659ffb581fe8f0e5a6d013c13e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/36.png"
+hash = "76deb9040e4c22c9697b468777e2f7e3f0db6b9238951eacd9972a3bef8aece1"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/37.png"
+hash = "cdf2d9a8e661d2874cc28d46343e3ee9d762499990bdbe5a351009d437a051ea"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/38.png"
+hash = "9fd9deb41d2c6cf699d1543b7971bc96da013221b5433ac5ca2056ad0dc7d529"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/39.png"
+hash = "72a667110ae82b9b8dc65dce17583ad9478eae83bd45a179e959499d6bac69a4"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/4.png"
+hash = "6c7cd81b232e75da88e2c2b10da286dc603dfd85b83db91347eba9ee1fe596c9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/40.png"
+hash = "49ffff2e8bf0d3fcffa9183f69d9598615392230f4274f5bad073db85a38d074"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/41.png"
+hash = "e232c25900653032cb618d15002ff868006a09624838e8e35bd588f81f36d10d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/42.png"
+hash = "4e18f487104a402d6aadec92a3d44146cb684eacf9ff854fa00f2a3532734d00"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/43.png"
+hash = "c84844f38bd7bfb6e2755b7741b6eb669a0f5507fae4d5dc9d14b37906659e27"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/44.png"
+hash = "b6a5be7afe47027c45702fff976732654e2a35c574cf8fdff7646a1b190242c9"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/45.png"
+hash = "893e26dbc2c83071eaad62945ff98a5310e3682aa1939c9bdfa20073ea82d7a5"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/46.png"
+hash = "3fd023cadb0e79e67433db09d4cea9e2d8d0a26105efe1f3566401f8f028f403"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/47.png"
+hash = "13a695b8945f401fc53ae5c49cfa5d9c1ccd49f8e82d68af168e17d48fb545b0"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/48.png"
+hash = "da35d1bc7fb6c4c12f4e2732964ba42cb03bda1cc80d51c68a14826adc382d13"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/49.png"
+hash = "889bfdf3162769884797fa9af20093b803296c2e4108fdd3e68d2e83071e6f12"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/5.png"
+hash = "91414ab0878e78d40d032fe407edde3b52cafe96774bc48871ab7319e15ef251"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/50.png"
+hash = "47ce2490f7763bfeaa777141cbc129d8777d9411e73d75e790270187cd90482e"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/51.png"
+hash = "c9b4ded326d9b06099f902f2b90fb583712b3b992f27c3838ede347aba4db891"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/52.png"
+hash = "dd7f9800414ddd161fa20e242e2b6581ffbbe74fb8014f5cbb65ac0d9a5a88fa"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/53.png"
+hash = "f6162a89b749e41f338f7ec3d9aba9b525e4b9c2834525bf0cb8e6cc15110216"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/54.png"
+hash = "3140a5cbf78645355183558966078bbb721dd60a99d620604c522edc49ae60ae"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/55.png"
+hash = "eaf54aaee58ee946d451d9f818bde85071ca91406ab2e047e5f11a5a28992dd3"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/56.png"
+hash = "4d6c7d9b4133e9531d0badd3be71ba1b9035fbd77bb112c05302330b58f6a7ac"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/57.png"
+hash = "ce7ab8448ae59fcd51747e2858b53514b8905af58dc762386bb1ce159ea7e9fd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/58.png"
+hash = "6857265d45234fbd8ac3c2365340c8aa0283efbc381afc34321ecb13729bcfe4"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/59.png"
+hash = "8388c5ceefa0c02f0512df2693e592f84a32f2250a63f78b0b0a4723e6f64a1d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/6.png"
+hash = "47f4a86c7abc687b730c03e9926615a6d4c7f6698feb108f2fee326354da5a6f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/60.png"
+hash = "c8b28a3105b0d52b58f1a6a575108083193b9ac9612453442f01e0bf58aae4bb"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/61.png"
+hash = "ba3791b07e640c0c24c3def6481ab4dbe7e055405578d178d37104bb1829cae2"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/62.png"
+hash = "a3db9530591cd208620c82acc8670f5cce92f8b428fcee0cdfd4ee64eec04ae7"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/63.png"
+hash = "d0731e485b1662d1d12c36310c8a40dff29b1bcfc5895c8527675b8396cc59e3"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/64.png"
+hash = "9d1a82f4e0b7b6429caf3543974bd173ed174afacc7fe7e2b451914f644fc99d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/65.png"
+hash = "3c1e2eeb1a1cdec83f4e3f8d265361d801ded8118b6ffa63194f290499876171"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/66.png"
+hash = "cfb97cfbf0cc92577e50de026756aace2a42e572387d430e926385b27536c491"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/67.png"
+hash = "dd5e6d33f57145a22652c5fe4482b1250c15460d92a8cb623f0ab36c1ecf9c64"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/68.png"
+hash = "3baec03ad449722d8fbb9d3ef839b326730642421e34c3470c68df4a5b87a50f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/69.png"
+hash = "9376385a571fdc7ed4594326bc5d573a6aa63b62c7589f9850bd24b53c26b86a"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/7.png"
+hash = "f8f65efb8d64bd1e06a9c65187168794e0b0df29e42e144a24fdd78c8f5a0aad"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/70.png"
+hash = "712c3eb3a5920a948165a354ef68fa9e7c098cbbe2d06478a610e199401a8494"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/71.png"
+hash = "b3fa6dc8a7d447f8178e7a2588991b67ae63a9bc09126c9dbc24d14fbf6ce43f"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/72.png"
+hash = "286b1c044d381bb0c2c75e917271f865a3726fa9e79dfaad6be3b4a02c77a9d5"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/73.png"
+hash = "a5d63c97e853f8f9fb3cbbd7b936b3867b6f5927abe5b2f517042723cd4a2273"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/74.png"
+hash = "d7282e8dba95bf5ba0df4f470064b639f0c148db5b5df2268d2af5c2cc2c2458"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/75.png"
+hash = "ae00a6b31dbf7f296f6cdf61177390962b37626733d3ca728ad90336aa8344ed"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/76.png"
+hash = "b082089992580a6b8bc4ba139b56fc41969d8e298f23daf39b51e09a461d11dd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/77.png"
+hash = "0a5e12d608d20cbc0b9b86e36b76946e70de0017123e43da38219e349ff131ac"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/78.png"
+hash = "021baf1a74fa5ceff0134de8c4f719ff35ef349736042857fc9eb563adcfb391"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/79.png"
+hash = "8463d78f397410a5c38f7f2f3157bc43b40e9e80c197737dbd34307ba09d2401"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/8.png"
+hash = "7ab0cdf51b3fa67f09969cf1eb5dc47c2a3765587233c9d0bd6d970258cda16d"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/80.png"
+hash = "23c525b3cb23a512982577d7c5131a172b46d023290bd817709b8f3f70ba7dc4"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/81.png"
+hash = "24b4affa24fe64f0b301940393975c7f0acffc6d0893f81718d9b325124564cd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/82.png"
+hash = "28ffabc86e4a304c8b113d3d401f7d1741680817f9358f2be0c20739733bfe65"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/83.png"
+hash = "d7412db5362696f6cf54eaa8815e886aca28af14c182611d976e7d224c4b1a80"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/84.png"
+hash = "df14fb8a999f74f43ff6d53a00f64976e5280fcc141c29d74ea360012a4e420b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/85.png"
+hash = "15fd21d4d141d0c21c6546180973383a32282ed4a26fce9a4af1f6acfc58073c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/86.png"
+hash = "4983fe15e0987479cfacb962c8371fd2bc79e2263d2f6dd3f511b8d896c02203"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/87.png"
+hash = "26def67818f4298cac6c423f4558599b7af33927f9526dd687dc36f3044eff83"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/88.png"
+hash = "bb9541d10f43f2a10b73b7bed99d15f389909955494afd741e5a2f06c4520191"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/89.png"
+hash = "549fda8248d71a93ba90bb7f1a9c690df9396dd5c7b21e8d5db8c406e80ffe3b"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/9.png"
+hash = "64ddcdeb4bdc6e4958eceb3d003bbe29c36f2a4c47292d45ffd783abbb6b9fe6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/90.png"
+hash = "6d65a1418500d0e704a531ceffc509bded7111013e0df831bf6edd42f699f685"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/91.png"
+hash = "81ba1a10b393c7d84df869c7f4a331bafafb294d73f75c9170c7faa5f71fc5af"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/92.png"
+hash = "cc6b90fe9d4d9ab4a7dba1b5c2ce6db0ce52917d907126ee9c784bd9f4811088"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/93.png"
+hash = "cce52cce6263585d887e4caf50787912d78ff584ef90ce04be7f286673049b33"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/94.png"
+hash = "96ae3df89ce6ebb2032e42623f4d88dc12d23b079d002631c08dfa5de4f397ca"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/95.png"
+hash = "cc6c61023fced06e65425023e8052189584a330c38fd33b92d7b3fe028997708"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/96.png"
+hash = "9751f9590665d33da92ac570cba341a72d6f14bce313d5cf80f7e1ba2572cbfd"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/97.png"
+hash = "5e5f2abe1b05fd65032eb84cf158f9ddf9c598ea417cdf1b2c5753a8ca560ee6"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/98.png"
+hash = "cb667bc09bde82c827c1ca15cb3246b80ae9d6fe4ea9ddd8d44b7c0ebe20a50c"
+
+[[files]]
+file = "resources/immersion_pack_funny_intro_animation/frames_main/99.png"
+hash = "4e078ada4a1f324b0026a81d4f8bb16d072a2d587b7299c15a51842c56a02f2f"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r2.1.zip"

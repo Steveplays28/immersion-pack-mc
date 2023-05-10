@@ -3,3 +3,6 @@
 
 # VSCode stuff
 .vscode/
+
+**/docs/**
+!**/docs/media/**
