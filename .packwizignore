@@ -5,4 +5,4 @@
 .vscode/
 
 **/docs/**
-!**/docs/media/**
+!**/docs/media/*.png
