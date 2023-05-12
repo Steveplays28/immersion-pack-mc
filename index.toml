@@ -25,6 +25,22 @@ file = "config/fancymenu/animations/immersion_pack_funny_intro_animation/animati
 hash = "bc660ca6c07073afb8648fca08992c3c1b5bd435f2ceed76b1f2ef2654f7b011"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "1ffc5b999244f116c1dab7f5af38a9135b1aee2020a80e2ec830e5bf06d68a03"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "7d1e2eacdb19d7e8f5fd7f30aa16972a54cb40657242d03e186b9cd5170f63b2"
+
+[[files]]
+file = "config/fancymenu/customization/animated_background.txt"
+hash = "ba96c5d3b2b1468aca3cb39949d32beabbbb22e4e083944e4b8ac99dd1e7290c"
+
+[[files]]
+file = "config/fancymenu/customization/loading_screen_dark.txt"
+hash = "4c3d85f6a17f2b4ea0c75d46048f0924ed1fa7f0161d4eb477de61374b9d7205"
+
+[[files]]
 file = "config/lambdynlights.toml"
 hash = "4b313311bc266ab72a8d2f293d516624ae2880b0528eba1e7136cfbdf760ba58"
 
@@ -79,6 +95,14 @@ hash = "47b4a15c2aa4a14119052fdc061f10bdbda5e2983485413c85382c6ce39db999"
 [[files]]
 file = "config/yigd.toml"
 hash = "02a1e99f5b3bd15395043989117e3ba6c7a47c15d15109849b29d43be1c19d98"
+
+[[files]]
+file = "docs/media/background.png"
+hash = "3d111d139ccb3976f28ce7e43e3e4731e513cc6d5984efd6e7563d8faddfffcb"
+
+[[files]]
+file = "docs/media/immersion_pack_logo_text.png"
+hash = "ebbf4b6aeb66cd339ec0e3d97665bd60fe615db6b26ad58eddefd11bead7d8c3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

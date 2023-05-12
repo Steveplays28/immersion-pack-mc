@@ -4,5 +4,6 @@
 # VSCode stuff
 .vscode/
 
-**/docs/**
-!**/docs/media/*.png
+*.xcf
+*.mp4
+*.mkv
