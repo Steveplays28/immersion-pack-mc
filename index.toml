@@ -9,8 +9,32 @@ file = "config/NoChatReports/NCR-Encryption.json"
 hash = "1c66bf3d7009e754f138b4483f8b4179e95f118345090f14f69d49b0b49f0ebd"
 
 [[files]]
+file = "config/armourweight.json5"
+hash = "15fc601d40512f762abedda8669ce9e73be9f57362c210a1181b2d82c6a2f56f"
+
+[[files]]
+file = "config/combatroll/client.json5"
+hash = "26575f03678a98a8c963e6613a45c87887771e6108ad26d8e019684be349fd09"
+
+[[files]]
+file = "config/combatroll/enchantments.json"
+hash = "b807ca9ebe5ca5e45c8367b08cb97a08aa73181b66da4ab7c9f92e02200ca01e"
+
+[[files]]
+file = "config/combatroll/hud_config.json"
+hash = "f619cf9c77091bdb3218fc0af71309680b27be3f8ea43ef955dd9b34a9fdf679"
+
+[[files]]
+file = "config/combatroll/server.json5"
+hash = "1d831d1e04b3275df263a7d45068cddc53390bab2583ddefea0e30db7599aad6"
+
+[[files]]
 file = "config/dynamicfps.toml"
 hash = "64ea24fdafe384529416a8163988d0f3e0a238cfc29b59573001e5bb430c2b57"
+
+[[files]]
+file = "config/enhancedmovement.json"
+hash = "61da789c3957ad42c345a942eccec3aa5fe85dd4ac6849f01373d6feefa258e4"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -132,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "e19ea9812169e64a72999943a46c1e46144b4632bdb5519ca7a2f844dd0af91e"
+metafile = true
+
+[[files]]
+file = "mods/armour-weight.pw.toml"
+hash = "55f532a73766531cf5678c4f40f4733828998234d828c12533f56a6676b4e5af"
 metafile = true
 
 [[files]]
@@ -270,6 +299,11 @@ hash = "7a6a192d8b94f9363b7a741b6758316437c56598ee0156c479949e71b6c80f7c"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-movement-fabric.pw.toml"
+hash = "275f0f12c2a02fd79881e5ed139e975390514f2f91d7d3a5a2259591b34671c1"
+metafile = true
+
+[[files]]
 file = "mods/enhancedvisuals.pw.toml"
 hash = "fd8f27d6e60adfc1a7dff6800d628d5c29ca3c9cd1f3e50b47d87a7cc6f4e17a"
 metafile = true
@@ -337,6 +371,16 @@ metafile = true
 [[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "4041259713ac7d66a89097d266563b74234670d2d2f806c03b8a558a5efba36d"
+metafile = true
+
+[[files]]
+file = "mods/freelook.pw.toml"
+hash = "2ee99ddcfd232c177d07a20168653d1c9bad2a363c6a9af7889a16764af6b6ec"
+metafile = true
+
+[[files]]
+file = "mods/frostbytes-maximum-mobility.pw.toml"
+hash = "236677abb5094e050deb6c618e48dc221f3489e35df979e83463d4a061cab3b4"
 metafile = true
 
 [[files]]
