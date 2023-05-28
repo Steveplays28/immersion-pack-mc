@@ -10,7 +10,7 @@ hash = "1c66bf3d7009e754f138b4483f8b4179e95f118345090f14f69d49b0b49f0ebd"
 
 [[files]]
 file = "config/armourweight.json5"
-hash = "15fc601d40512f762abedda8669ce9e73be9f57362c210a1181b2d82c6a2f56f"
+hash = "3acad5ec05f6a520004c45b5c9cc886ad8be16098739e6fce01f6214a7ae5053"
 
 [[files]]
 file = "config/combatroll/client.json5"
@@ -65,6 +65,10 @@ file = "config/fancymenu/customization/loading_screen_dark.txt"
 hash = "4c3d85f6a17f2b4ea0c75d46048f0924ed1fa7f0161d4eb477de61374b9d7205"
 
 [[files]]
+file = "config/immersive_mc.toml"
+hash = "c15812247f0892c184f4f59fbe2dd90a6794015995a919b6f24de713184825c8"
+
+[[files]]
 file = "config/lambdynlights.toml"
 hash = "4b313311bc266ab72a8d2f293d516624ae2880b0528eba1e7136cfbdf760ba58"
 
@@ -101,6 +105,10 @@ file = "config/physicsmod/physics_vines_client_config.json"
 hash = "3f3f0e9a467636a34fb958601323e583ef344a1108fdbb3ce45a61dfb79255ca"
 
 [[files]]
+file = "config/resquake.json"
+hash = "2eefef98d67fa6d5aec284fed3021025f29fc5b8f427f8db016fc0e8da7c177d"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "12cbca5cb522c82fc113accc2cf9aa559344cfbabee93b3c27982035bdad732b"
 
@@ -127,6 +135,10 @@ hash = "3d111d139ccb3976f28ce7e43e3e4731e513cc6d5984efd6e7563d8faddfffcb"
 [[files]]
 file = "docs/media/immersion_pack_logo_text.png"
 hash = "ebbf4b6aeb66cd339ec0e3d97665bd60fe615db6b26ad58eddefd11bead7d8c3"
+
+[[files]]
+file = "freelook.txt"
+hash = "f1b2f662800122bed0ff255693df89c4487fbdcf453d3524a42d4ec20c3d9c04"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -156,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "e19ea9812169e64a72999943a46c1e46144b4632bdb5519ca7a2f844dd0af91e"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6b76641118d0d86d838f5eb45f333d636e12e930598b857973e4b57b7a374e9b"
 metafile = true
 
 [[files]]
@@ -421,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "b982d9347f153e1be564e7b359691d69fc0fa9f0b45c4ca91f5a9aef6f4bfca8"
+metafile = true
+
+[[files]]
+file = "mods/immersivemc.pw.toml"
+hash = "0a4b1741ebd1d184b2335d4c5129adffd478c5ddc8414658b69855463c190db3"
 metafile = true
 
 [[files]]
