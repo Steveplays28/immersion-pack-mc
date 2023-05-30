@@ -33,8 +33,8 @@ file = "config/dynamicfps.toml"
 hash = "64ea24fdafe384529416a8163988d0f3e0a238cfc29b59573001e5bb430c2b57"
 
 [[files]]
-file = "config/enhancedmovement.json"
-hash = "61da789c3957ad42c345a942eccec3aa5fe85dd4ac6849f01373d6feefa258e4"
+file = "config/enhanced_movement.json"
+hash = "7490e0226319cacab1a758cc969cbb2146853ff9da8293dc303ac833e5b03314"
 
 [[files]]
 file = "config/enhancedvisuals-client.json"
@@ -316,11 +316,6 @@ hash = "7a6a192d8b94f9363b7a741b6758316437c56598ee0156c479949e71b6c80f7c"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-movement-fabric.pw.toml"
-hash = "275f0f12c2a02fd79881e5ed139e975390514f2f91d7d3a5a2259591b34671c1"
-metafile = true
-
-[[files]]
 file = "mods/enhancedvisuals.pw.toml"
 hash = "fd8f27d6e60adfc1a7dff6800d628d5c29ca3c9cd1f3e50b47d87a7cc6f4e17a"
 metafile = true
@@ -329,6 +324,10 @@ metafile = true
 file = "mods/entityculling.pw.toml"
 hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
+
+[[files]]
+file = "mods/fabric-enhancedmovement-1.0.5.jar"
+hash = "afa29d53ca86570ec2bc084517d2908b5851904f2ca8de9ec1043572152ab293"
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
