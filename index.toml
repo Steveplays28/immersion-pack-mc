@@ -375,11 +375,6 @@ hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "c741f56058dd5d2a98f57c1a0d63eb843b16c38a47472e5a0d923526ce202d94"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "678ecc9241860f54aa51acc300dcec18d96322bb593a2db6574e7de952d6038f"
 metafile = true
@@ -571,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
+metafile = true
+
+[[files]]
+file = "mods/real-camera.pw.toml"
+hash = "1e29758b3e8144a0dcb23f6f0b2c4790f3c5f1491513513123363ea219ef7fec"
 metafile = true
 
 [[files]]
